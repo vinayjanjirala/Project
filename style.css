@@ -645,7 +645,7 @@ h4 {
   }
 }
 .footer {
-  min-width: 100%;
+  width: 100%;
   background-color: #17191b;
   display: flex;
   justify-content: center;
