@@ -182,11 +182,14 @@ section {
 }
 .container {
   position: relative;
-  max-width: 1070px;
+  max-width: 1200px;
   margin: 0 auto;
+  width: 100%;
 }
 .container-1 {
   display: flex;
+  width: 90%;
+  margin: 0 auto;
 }
 .rout {
   text-decoration: none;
@@ -515,9 +518,12 @@ h1{
   background-color: #17191b;
   text-align: center;
 }
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 830px) {
   .container-1 {
     display: block;
+  }
+  .text{
+    width: 95%;
   }
   .pic-1 {
     padding-top: 1.25rem !important;
