@@ -248,7 +248,7 @@ a {
     transition: opacity 0.3s ease, transform 0.3s ease;
     grid-template-columns: repeat(4, 1fr);
     background-color: #000;
-    padding: 0.2rem 2.5rem;
+    padding: 0.2rem 3rem;
   }
   .tem-1 {
     font-size: 0.75rem;
@@ -610,6 +610,9 @@ h4 {
   }
   .john {
     display: block;
+  }
+  h1{
+    padding: 0px 2rem;
   }
 }
 @media screen and (max-width: 400px) {
