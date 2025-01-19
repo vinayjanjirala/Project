@@ -659,7 +659,7 @@ h1{
     width: fit-content;
     position: absolute;
     top: 31vh;
-    left: 16%;
+    left: 22%;
     transform: translate(-50%, -50%);
     opacity: 0;
     transition: visibility 0.8s, opacity 0.3s ease;
@@ -672,7 +672,7 @@ h1{
     width: fit-content;
     position: absolute;
     top: 31vh;
-    left: 30%;
+    left: 35%;
     transform: translate(-50%, -50%);
     opacity: 0;
     transition: visibility 0.8s, opacity 0.3s ease;
@@ -685,7 +685,7 @@ h1{
     width: fit-content;
     position: absolute;
     top: 12vh;
-    left: 48%;
+    left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
     transition: visibility 0.8s, opacity 0.3s ease;
