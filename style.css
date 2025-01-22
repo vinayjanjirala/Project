@@ -581,7 +581,7 @@ h1{
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 35vh;
+    top: 33vh;
     left: 8%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -597,8 +597,8 @@ h1{
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 35vh;
-    left: 30%;
+    top: 33vh;
+    left: 28%;
     transform: translate(-50%, -50%);
     opacity: 0;
     transition: visibility 0.8s, opacity 0.3s ease;
@@ -609,8 +609,8 @@ h1{
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 15vh;
-    left: 55%;
+    top: 14vh;
+    left: 52%;
     transform: translate(-50%, -50%);
     opacity: 0;
     transition: visibility 0.8s, opacity 0.3s ease;
