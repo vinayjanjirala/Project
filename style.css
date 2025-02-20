@@ -604,14 +604,14 @@ h1 {
     left: 30%;
     transform: translate(-50%, -50%);
     transition: opacity 0.3s ease, transform 0.3s ease;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, 1.5fr);
   }
   .tem-1 {
     display: flex;
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 32vh;
+    top: 680%;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -627,7 +627,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 32vh;
+    top: 680%;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -639,8 +639,8 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 14vh;
-    left: 52%;
+    top: 300%;
+    left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
     transition: visibility 0.8s, opacity 0.3s ease;
@@ -689,7 +689,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 29vh;
+    top: 650%;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -702,7 +702,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 29vh;
+    top: 650%;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -715,7 +715,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 11vh;
+    top: 280%;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
