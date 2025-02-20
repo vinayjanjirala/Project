@@ -689,7 +689,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 650%;
+    top: 250%;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -702,7 +702,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 650%;
+    top: 250%;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -715,7 +715,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 280%;
+    top: 100%;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
