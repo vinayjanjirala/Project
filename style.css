@@ -689,7 +689,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 720%;
+    top: 750%;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
