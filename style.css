@@ -689,7 +689,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 35vh;
+    top: 29vh;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -702,7 +702,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 35vh;
+    top: 29vh;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
@@ -715,7 +715,7 @@ h1 {
     flex-direction: column;
     width: fit-content;
     position: absolute;
-    top: 15vh;
+    top: 11vh;
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
